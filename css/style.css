@@ -221,10 +221,1136 @@ a.nav {
 /* Style for "Shape" */
 .message-shape {
   position: absolute;
+  border-radius: 50%;
   top: 499px;
   left: 816px;
   width: 69px;
   height: 69px;
   background-color: #81d5ed;
+  z-index: 1;
 }
 
+/* Style for "Shape" */
+.message-button {
+  position: absolute;
+  top: 511px;
+  left: 828px;
+  width: 45px;
+  height: 45px;
+  z-index: 1;
+}
+
+/* Style for "Gürkan Dül" */
+.name {
+  position: absolute;
+  top: 633px;
+  left: 560px;
+  width: 1156px;
+  height: 80px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "entreprene" */
+.entrepreneur {
+  position: absolute;
+  top: 705px;
+  left: 405px;
+  width: 1156px;
+  height: 106px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+/* Style for "ict & medi" */
+.function {
+  position: absolute;
+  top: 767px;
+  left: 570px;
+  width: 1156px;
+  height: 106px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+/* Style for "STORY" */
+.story-header {
+  position: absolute;
+  top: 916px;
+  left: 186px;
+  width: 259px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* style for "user-icon" */
+.user-icon {
+  position: absolute;
+  top: 975px;
+  left: 142px;
+}
+
+/* Style for "story info" */
+.story-info {
+  position: absolute;
+  top: 1000px;
+  left: 142px;
+  width: 448px;
+  height: 167px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/* Style for "LFMI-icon" */
+.LFMI-icon {
+  position: absolute;
+  top: 975px;
+  left: 850px;
+  width: 24px;
+  height: 24px;
+}
+
+/* Style for "LFMI" */
+.LFMI-header {
+  position: absolute;
+  top: 917px;
+  left: 881px;
+  width: 259px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "LFMI-info" */
+.LFMI-info {
+  position: absolute;
+  top: 1000px;
+  left: 850px;
+  width: 448px;
+  height: 166px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/* Style for "skills icon" */
+.skills-icon {
+  position: absolute;
+  top: 1265px;
+  left: 142px;
+  width: 24px;
+  height: 24px;
+}
+
+/* Style for "SKILLS" */
+.skills-header {
+  position: absolute;
+  top: 1207px;
+  left: 180px;
+  width: 85px;
+  height: 29px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Skill 1" */
+.skill-1 {
+  position: absolute;
+  top: 1270px;
+  left: 141px;
+  width: 95px;
+  height: 28px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "skill-1-line" */
+.skill-1-line {
+  position: absolute;
+  top: 1340px;
+  left: 142px;
+  width: 377px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "skill-1-line-white" */
+.skill-1-line-white {
+  position: absolute;
+  top: 1340px;
+  left: 142px;
+  width: 448px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "Skill 2" */
+.skill-2 {
+  position: absolute;
+  top: 1340px;
+  left: 141px;
+  width: 95px;
+  height: 28px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "skill-2-line" */
+.skill-2-line {
+  position: absolute;
+  top: 1410px;
+  left: 142px;
+  width: 377px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "skill-2-line-white" */
+.skill-2-line-white {
+  position: absolute;
+  top: 1410px;
+  left: 142px;
+  width: 448px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+
+/* Style for "Skill 3" */
+.skill-3 {
+  position: absolute;
+  top: 1410px;
+  left: 141px;
+  width: 95px;
+  height: 28px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "skill-3-line" */
+.skill-3-line {
+  position: absolute;
+  top: 1480px;
+  left: 142px;
+  width: 377px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "skill-3-line-white" */
+.skill-3-line-white {
+  position: absolute;
+  top: 1480px;
+  left: 142px;
+  width: 448px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "Skill 4" */
+.skill-4 {
+  position: absolute;
+  top: 1480px;
+  left: 141px;
+  width: 95px;
+  height: 28px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "skill-4-line" */
+.skill-4-line {
+  position: absolute;
+  top: 1550px;
+  left: 142px;
+  width: 377px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "skill-4-line-white" */
+.skill-4-line-white {
+  position: absolute;
+  top: 1550px;
+  left: 142px;
+  width: 448px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "Skill 5" */
+.skill-5 {
+  position: absolute;
+  top: 1550px;
+  left: 141px;
+  width: 95px;
+  height: 28px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "skill-5-line" */
+.skill-5-line {
+  position: absolute;
+  top: 1620px;
+  left: 142px;
+  width: 377px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "skill-5-line-white" */
+.skill-5-line-white {
+  position: absolute;
+  top: 1620px;
+  left: 142px;
+  width: 448px;
+  height: 19px;
+  border-radius: 8px;
+}
+
+/* Style for "knowledge-icon" */
+.knowledge-icon {
+  position: absolute;
+  top: 1265px;
+  left: 850px;
+  width: 24px;
+  height: 24px;
+}
+
+
+/* Style for "KNOWLEDGE" */
+.knowledge-header {
+  position: absolute;
+  top: 1207px;
+  left: 890px;
+  width: 150px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "requirements" */
+.requirements-rect {
+  position: absolute;
+  top: 1310px;
+  left: 853px;
+  width: 134px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "safety" */
+.safety-rect {
+  position: absolute;
+  top: 1310px;
+  left: 997px;
+  width: 67px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "specifications" */
+.specifications-rect {
+  position: absolute;
+  top: 1310px;
+  left: 1074px;
+  width: 136px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "plans" */
+.plans-rect {
+  position: absolute;
+  top: 1310px;
+  left: 1220px;
+  width: 60px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "creative" */
+.creative-rect {
+  position: absolute;
+  top: 1361px;
+  left: 856px;
+  width: 83px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "archicture" */
+.archicture-rect {
+  position: absolute;
+  top: 1361px;
+  left: 949px;
+  width: 119px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "budget" */
+.budget-rect {
+  position: absolute;
+  top: 1361px;
+  left: 1078px;
+  width: 74px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "engineering" */
+.engineering-rect {
+  position: absolute;
+  top: 1361px;
+  left: 1162px;
+  width: 115px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "processes" */
+.processes-rect {
+  position: absolute;
+  top: 1412px;
+  left: 850px;
+  width: 104px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "strategy" */
+.strategy-rect {
+  position: absolute;
+  top: 1412px;
+  left: 964px;
+  width: 84px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "schedules" */
+.schedules-rect {
+  position: absolute;
+  top: 1412px;
+  left: 1058px;
+  width: 103px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "accounting" */
+.accounting-rect {
+  position: absolute;
+  top: 1412px;
+  left: 1171px;
+  width: 112px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "design" */
+.design-rect {
+  position: absolute;
+  top: 1463px;
+  left: 877px;
+  width: 72px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "code" */
+.code-rect {
+  position: absolute;
+  top: 1463px;
+  left: 959px;
+  width: 57px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "management" */
+.management-rect {
+  position: absolute;
+  top: 1463px;
+  left: 1026px;
+  width: 128px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "research" */
+.research-rect {
+  position: absolute;
+  top: 1463px;
+  left: 1164px;
+  width: 93px;
+  height: 31px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+  border: none;
+  text-align: center;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Style for "company" */
+.company {
+  position: absolute;
+  top: 1743px;
+  left: 627px;
+  width: 187px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "company-picture" */
+.company-picture {
+  position: absolute;
+  top: 1873px;
+  left: 555px;
+  width: 330px;
+  height: 330px;
+}
+
+/* Style for "company-name" */
+.company-name {
+  position: absolute;
+  top: 2221px;
+  left: 450px;
+  width: 1156px;
+  height: 80px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "sector" */
+.sector {
+  position: absolute;
+  top: 2275px;
+  left: 540px;
+  width: 1156px;
+  height: 106px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+/* Style for "position" */
+.position {
+  position: absolute;
+  top: 2337px;
+  left: 530px;
+  width: 1156px;
+  height: 106px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+/* Style for "company-icon" */
+.company-icon {
+  position: absolute;
+  top: 2578px;
+  left: 142px;
+  width: 24px;
+  height: 24px;
+}
+
+/* Style for "company" */
+.company-header {
+  position: absolute;
+  top: 2520px;
+  left: 186px;
+  width: 196px;
+  height: 26px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "copany-info" */
+.company-info {
+  position: absolute;
+  top: 2604px;
+  left: 142px;
+  width: 448px;
+  height: 166px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/* Style for "years-icon" */
+.years-icon {
+  position: absolute;
+  top: 2578px;
+  left: 850px;
+  width: 25px;
+  height: 24px;
+}
+
+/* Style for "years header" */
+.years-header {
+  position: absolute;
+  top: 2520px;
+  left: 891px;
+  width: 173px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "years-info" */
+.years-info {
+  position: absolute;
+  top: 2535px;
+  left: 850px;
+  width: 448px;
+  height: 166px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 62px;
+  font-weight: 700;
+}
+
+/* Style for "portfolio" */
+.header-portfolio {
+  position: absolute;
+  top: 2829px;
+  left: 612px;
+  width: 216px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "portfolio-intro" */
+.portfolio-intro {
+  position: absolute;
+  top: 2951px;
+  left: 260px;
+  width: 920px;
+  height: 95px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 31px;
+  text-align: center;
+}
+
+
+/* Style for "portfolio-1" */
+.portfolio-1 {
+  position: absolute;
+  top: 3086px;
+  left: 142px;
+  width: 566px;
+  height: 389px;
+}
+
+/* Style for "portfolio-1-info" */
+.portfolio-1-info {
+  position: absolute;
+  top: 3360px;
+  left: 164px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+/* Style for "portfolio-2" */
+.portfolio-2 {
+  position: absolute;
+  top: 3086px;
+  left: 732px;
+  width: 566px;
+  height: 389px;
+}
+
+/* Style for "portfolio-2-info" */
+.portfolio-2-info {
+  position: absolute;
+  top: 3360px;
+  left: 754px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+/* Style for "portfolio-3" */
+.portfolio-3 {
+  position: absolute;
+  top: 3499px;
+  left: 142px;
+  width: 566px;
+  height: 389px;
+}
+
+/* Style for "portfolio-3-info" */
+.portfolio-3-info {
+  position: absolute;
+  top: 3773px;
+  left: 164px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+/* Style for "portfolio-4" */
+.portfolio-4 {
+  position: absolute;
+  top: 3499px;
+  left: 732px;
+  width: 566px;
+  height: 389px;
+}
+
+/* Style for "portfolio-4-info" */
+.portfolio-4-info {
+  position: absolute;
+  top: 3773px;
+  left: 754px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+/* Style for "reviews" */
+.review-header {
+  position: absolute;
+  top: 4005px;
+  left: 636px;
+  width: 168px;
+  height: 67px;
+  color: white;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "reviews-blok" */
+.reviews-blok1{
+  position: absolute;
+  top: 3968px;
+  left: 0;
+  width: 1440px;
+  height: 187px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "reviews-blok2" */
+.reviews-blok2 {
+  position: absolute;
+  top: 4155px;
+  left: 0;
+  width: 1440px;
+  height: 565px;
+  border: 1px solid #81d5ed;
+
+}
+
+/* Style for review-profile */
+.review-profile {
+  position: absolute;
+  top: 4160px;
+  left: 612px;
+  width: 216px;
+  height: 216px;
+}
+
+/* Style for "review name" */
+.review-name{
+  position: absolute;
+  top: 4333px;
+  left: 616px;
+  width: 197px;
+  height: 39px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "“review-text" */
+.review-text {
+  position: absolute;
+  top: 4430px;
+  left: 437px;
+  width: 566px;
+  height: 110px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: center;
+}
+
+/* Style for "Star" */
+.star {
+  position: absolute;
+  top: 4603px;
+  left: 621px;
+  width: 114px;
+  height: 37px;
+}
+
+/* Style for "Star" */
+.star2 {
+  position: absolute;
+  top: 4603px;
+  left: 741px;
+  width: 76px;
+  height: 37px;
+}
+
+
+/* Style for "collaborat" */
+.colaboration {
+  position: absolute;
+  top: 4797px;
+  left: 559px;
+  width: 323px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "colaboration-intro" */
+.colaboration-intro {
+  position: absolute;
+  top: 4913px;
+  left: 262px;
+  width: 920px;
+  height: 107px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 31px;
+  text-align: center;
+}
+
+/* Style for "colaboration-picture-1" */
+.colaboration-picture-1{
+  position: absolute;
+  top: 5075px;
+  left: 142px;
+  width: 225px;
+  height: 219px;
+}
+
+/* Style for "colaboration-name-1" */
+.colaboration-name-1 {
+  position: absolute;
+  top: 5275px;
+  left: 163px;
+  width: 197px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "colaboration-picture-2" */
+.colaboration-picture-2 {
+  position: absolute;
+  top: 5075px;
+  left: 453px;
+  width: 225px;
+  height: 219px;
+}
+
+/* Style for "colaboration-name-2" */
+.colaboration-name-2{
+  position: absolute;
+  top: 5275px;
+  left: 501px;
+  width: 129px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "colaboration-picture-3" */
+.colaboration-picture-3 {
+  position: absolute;
+  top: 5075px;
+  left: 762px;
+  width: 225px;
+  height: 219px;
+}
+
+/* Style for "colaboration-name-3" */
+.colaboration-name-3{
+ position: absolute;
+  top: 5275px;
+  left: 797px;
+  width: 155px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "colaboration-picture-4" */
+.colaboration-picture-4 {
+  position: absolute;
+  top: 5075px;
+  left: 1073px;
+  width: 225px;
+  height: 219px;
+}
+
+/* Style for "colaboration-name-4" */
+.colaboration-name-4{
+ position: absolute;
+  top: 5275px;
+  left: 1140px;
+  width: 91px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+
+/* Style for "contact me" */
+.contact {
+  position: absolute;
+  top: 5442px;
+  left: 599px;
+  width: 242px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "contact intro" */
+.contact-intro {
+  position: absolute;
+  top: 5505px;
+  left: 260px;
+  width: 920px;
+  height: 109px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 31px;
+}
