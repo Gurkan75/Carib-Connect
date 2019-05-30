@@ -1,5 +1,5 @@
 /* Style for "Rectangle" */
-.rectangle-2 {
+.header {
   width: 1410px;
   height: 450px;
 }
@@ -1694,8 +1694,6 @@ a.sitemap-content {
 	cursor: pointer;
 }
 
-
-
 /* Style for "MAIL US" */
 .mail-us {
   position: absolute;
@@ -1780,7 +1778,6 @@ a.sitemap-content {
   text-decoration: none;
 }
 
-
 ::placeholder {
   position: absolute;
   top: 6141px;
@@ -1795,8 +1792,6 @@ a.sitemap-content {
   text-align: left;
 }
 
-
-
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
  color: #81d5ed;
 }
@@ -1804,7 +1799,6 @@ a.sitemap-content {
 ::-ms-input-placeholder { /* Microsoft Edge */
  color: #81d5ed;
 }
-
 
 
 

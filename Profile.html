@@ -4,11 +4,12 @@
 	<title></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<script type="text/javascript" src="jquery-3.3.1.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="smoothscroll.js"></script>
 
 </head>
 <body>
-	<div class="rectangle-2">
+	<div class="header">
 		<img class="logo-header" src="image/logo.png">
 		<img class="header-image" src="image/car.png">
 
@@ -23,7 +24,7 @@
 			  <li class="profile"><a class="nav" href="">Profile</a></li>
 			  <button class="log-out"><a class="nav" href="">Log-out</button></a>
 			</ul>
-			
+
 			<img class="hamburger-menu" src="image/hamburger-icon.png"> 
 
 		<h1 class="header-profile">Profile</h1>
@@ -31,7 +32,7 @@
 	<div>
 		<img class="profile-picture" src="image/profile-picture.png">
 		<img class="message-shape" src="image/message-shape.png">
-		<a href=""><img class="message-button" src="image/message-button.png"></a>
+		<a href="#two"><img class="message-button" src="image/message-button.png"></a>
 
 		<h1 class="name">Gürkan Dülger</h1>
 		<h4 class="entrepreneur">Entrepreneur from the Netherlands</h4>
@@ -145,13 +146,12 @@
 		<a href=""><img class="twitter" src="image/twitter-icon.png"></a>
 		<a href=""><img class="linkedin" src="image/linkedin-icon.png"></a>
 
-
-		<h6 class="contact-message">Or just send me a message</h6>
+		<h6 id="two" class="contact-message">Or just send me a message</h6>
 
 		<img class="contact-line" src="image/contact-line.png">
 
-		<div>
-		  <form action="">
+		<div class="main" id="contactsection">
+		  <form>
 		    <input type="text" class="name-contact" placeholder="Your name..">
 		    <input type="text" class="email-contact"  placeholder="Your email..">
 		    <input type="text" class="subject-contact" name="subject" placeholder="Subject">
@@ -170,7 +170,6 @@
 			Only for entrepreneurs, mentors and investors that want to push boundaries, share knowledge & bring ideas to reality.
 		</p>
 		<a href=""><button class="join-us-button">Join-us</button></a>
-
 
 		<h1 class="connect-excel">Connect & Excel!</h1>
 		<p class="connect-excel-text">
