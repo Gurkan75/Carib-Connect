@@ -33,7 +33,7 @@
 .services {
   position: absolute;
   top: 36px;
-  left: 693px;
+  left: 663px;
   width: 58px;
   height: 19px;
   color: #ffffff;
@@ -49,7 +49,7 @@
 .members {
   position: absolute;
   top: 36px;
-  left: 767px;
+  left: 737px;
   width: 58px;
   height: 19px;
   color: #ffffff;
@@ -65,7 +65,7 @@
 .incubators {
   position: absolute;
   top: 36px;
-  left: 840px;
+  left: 810px;
   width: 74px;
   height: 19px;
   color: #ffffff;
@@ -81,7 +81,7 @@
 .events {
   position: absolute;
   top: 36px;
-  left: 930px;
+  left: 900px;
   width: 47px;
   height: 19px;
   color: #ffffff;
@@ -97,7 +97,7 @@
 .news {
   position: absolute;
   top: 36px;
-  left: 993px;
+  left: 963px;
   width: 37px;
   height: 19px;
   color: #ffffff;
@@ -110,10 +110,10 @@
 }
 
 /* Style for "Contact" */
-.contact {
+.membership {
   position: absolute;
   top: 36px;
-  left: 1046px;
+  left: 1016px;
   width: 55px;
   height: 19px;
   color: #ffffff;
@@ -126,10 +126,10 @@
 }
 
 /* Style for "ABOUT" */
-.about {
+.training {
   position: absolute;
   top: 36px;
-  left: 1110px;
+  left: 1100px;
   width: 40px;
   height: 19px;
   color: #ffffff;
@@ -155,20 +155,6 @@
   text-transform: uppercase;
   list-style-type: none;
   text-decoration: none;
-}
-
-/* Style for "PROFILE" */
-.profile {
-  position: absolute;
-  top: 36px;
-  left: 1170px;
-  width: 47px;
-  height: 19px;
-  color: #ffffff;
-  font-family: Catamaran;
-  font-size: 12px;
-  font-weight: 400;
-  text-transform: uppercase;
 }
  
 a.nav {
@@ -198,6 +184,7 @@ a.nav {
 /* Style for "PROFILE" */
 .header-profile {
   position: absolute;
+  text-align: center;
   top: 155px;
   left: 642px;
   width: 156px;
@@ -1777,6 +1764,251 @@ a.sitemap-content {
   list-style-type: none;
   text-decoration: none;
 }
+
+/* Style for "training" */
+.header-training {
+  position: absolute;
+  top: 181px;
+  left: 601px;
+  width: 239px;
+  height: 86px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "TRAINING M" */
+.training-koptekst {
+  position: absolute;
+  top: 526px;
+  text-align: center;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "Training tekst" */
+.training-tekst {
+  position: absolute;
+  text-align: center;
+  top: 590px;
+  left: 142px;
+  width: 1156px;
+  height: 178px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+.training-1{
+  position: absolute;
+  top: 888px;
+  left: 142px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training 1 tekst" */
+.training-1-tekst {
+  position: absolute;
+  top: 1180px;
+  left: 164px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.training-2 {
+  position: absolute;
+  top: 888px;
+  left: 732px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "traning-tekst-2" */
+.training-2-tekst {
+  position: absolute;
+  top: 1180px;
+  left: 754px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+.training-3 {
+  position: absolute;
+  top: 1296px;
+  left: 142px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training-3-tekst" */
+.training-3-tekst {
+  position: absolute;
+  top: 1588px;
+  left: 164px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.training-4 {
+  position: absolute;
+  top: 1296px;
+  left: 732px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training-4-tekst" */
+.training-4-tekst {
+  position: absolute;
+  top: 1588px;
+  left: 754px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "training-5" */
+.training-5 {
+  position: absolute;
+  top: 1840px;
+  left: 142px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training 5 tekst" */
+.training-5-tekst {
+  position: absolute;
+  top: 2132px;
+  left: 164px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "training 6" */
+.training-6{
+  position: absolute;
+  top: 1840px;
+  left: 732px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training-6-tekst" */
+.training-6-tekst {
+  position: absolute;
+  top: 2132px;
+  left: 754px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "training 7" */
+.training-7 {
+  position: absolute;
+  top: 2248px;
+  left: 142px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training-7-tekst" */
+.training-7-tekst {
+  position: absolute;
+  top: 2540px;
+  left: 164px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "training 8" */
+.training-8 {
+  position: absolute;
+  top: 2248px;
+  left: 732px;
+  width: 566px;
+  height: 384px;
+}
+
+/* Style for "training 8 tekst" */
+.training-8-tekst {
+  position: absolute;
+  top: 2540px;
+  left: 754px;
+  width: 450px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.footer-training {
+  position: absolute;
+  top: 2712px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+
+
+
+
+
+
 
 ::placeholder {
   position: absolute;
