@@ -1,3 +1,4 @@
+
 /* Style for "Rectangle" */
 .header {
   width: 1410px;
@@ -11,6 +12,7 @@
   width: 1410px;
   height: 450px;
   z-index: -1;
+  opacity: 0.9;
 }
 
 /* Style for "LOGO" */
@@ -2005,10 +2007,391 @@ a.sitemap-content {
 
 
 
+/* Style for "how to suc" */
+.header-training-detail {
+  position: absolute;
+  top: 172px;
+  text-align: center;
+  left: 242px;
+  width: 875px;
+  height: 159px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 64px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "how to suc" */
+.how-to-grow {
+  position: absolute;
+  text-align: center;
+  top: 530px;
+  left: 260px;
+  width: 920px;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "MARCH 30," */
+.date {
+  position: absolute;
+  text-align: center;
+  top: 607px;
+  left: 260px;
+  width: 920px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.training-line {
+  position: absolute;
+  top: 715px;
+  left: 261px;
+  width: 918px;
+  height: 1px;
+  border: 1px solid #737373;
+}
+
+
+/* Style for "training-tekst" */
+.training-tekst {
+  position: absolute;
+  top: 732px;
+  left: 260px;
+  width: 920px;
+  height: 334px;
+  color: #9b9b9b;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-transform: lowercase;
+}
+
+/* Style for "what you l" */
+.what-you-learn {
+  position: absolute;
+  top: 1285px;
+  text-align: center;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "what you learning tekst" */
+.learn-tekst {
+  position: absolute;
+  text-align: center;
+  top: 1349px;
+  left: 142px;
+  width: 1156px;
+  height: 178px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "•  Maximum" */
+.bullet-list {
+  position: absolute;
+  top: 1567px;
+  left: 541px;
+  width: 359px;
+  height: 155px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+/* Style for "PROGRAM" */
+.program {
+  position: absolute;
+  text-align: center;
+  top: 1968px;
+  left: 424px;
+  width: 595px;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.program-line {
+  position: absolute;
+  top: 2076px;
+  left: 262px;
+  width: 918px;
+  height: 1px;
+  border: 1px solid #737373;
+}
+
+/* Style for "program button 1 " */
+.program-button-1{
+  position: absolute;
+  top: 2117px;
+  left: 569px;
+  width: 140px;
+  height: 48px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+  background-color: #ffffff;
+  cursor: pointer;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "program button 2" */
+.program-button-2{
+  position: absolute;
+  top: 2117px;
+  left: 729px;
+  width: 140px;
+  height: 48px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+  background-color: #ffffff;
+  cursor: pointer;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "programma tabel" */
+.program-table {
+  position: absolute;
+  top: 2200px;
+  left: 142px;
+  width: 1156px;
+  height: 230px;
+  border: 1px solid #979797;
+}
+
+
+/* Style for "LOCATION" */
+.location {
+  position: absolute;
+  text-align: center;
+  top: 2600px;
+  left: 424px;
+  width: 595px;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.location-line {
+  position: absolute;
+  top: 2708px;
+  left: 262px;
+  width: 918px;
+  height: 1px;
+  border: 1px solid #737373;
+}
+
+
+/* Style for "googlemaps" */
+.google-maps {
+  position: absolute;
+  top: 2753px;
+  left: 0;
+  width: 1442px;
+  height: 302px;
+}
+
+
+/* Style for "SHARE ON S" */
+.share-on-social {
+  position: absolute;
+  top: 3196px;
+  text-align: center;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+
+/* Style for "facebook training" */
+.facebook-training {
+  position: absolute;
+  top: 3312px;
+  left: 464px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "instagram training" */
+.instagram-training {
+  position: absolute;
+  top: 3312px;
+  left: 582px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "twitter training" */
+.twitter-training {
+  position: absolute;
+  top: 3312px;
+  left: 700px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "linkedin training" */
+.linkedin-training {
+  position: absolute;
+  top: 3312px;
+  left: 818px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "whatsapp training" */
+.whatsapp-training {
+  position: absolute;
+  top: 3312px;
+  left: 936px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "RELATED TR" */
+.related-events {
+  position: absolute;
+  top: 3467px;
+  text-align: center;
+  left: 142px;
+  width: 1155px;
+  height: 41px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.related-line {
+  position: absolute;
+  top: 3575px;
+  left: 276px;
+  width: 918px;
+  height: 1px;
+  border: 1px solid #737373;
+}
 
 
 
+/* Style for "related 1" */
+.related-1{
+  position: absolute;
+  top: 3648px;
+  left: 154px;
+  width: 512px;
+  height: 273px;
+}
 
+/* Style for "related 2" */
+.related-2{
+  position: absolute;
+  top: 3648px;
+  left: 774px;
+  width: 512px;
+  height: 273px;
+}
+
+/* Style for "related button 1" */
+.related-button-1 {
+  position: absolute;
+  top: 3977px;
+  left: 337px;
+  width: 150px;
+  height: 46px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+
+}
+
+/* Style for "related button 2" */
+.related-button-2 {
+  position: absolute;
+  top: 3977px;
+  left: 957px;
+  width: 150px;
+  height: 46px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  position: absolute;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+
+}
+
+
+
+.footer-training-detail {
+  position: absolute;
+  top: 4098px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
 
 ::placeholder {
   position: absolute;
