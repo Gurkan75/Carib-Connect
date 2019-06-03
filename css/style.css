@@ -1,3 +1,6 @@
+body {
+	overflow-x: hidden;
+}
 
 /* Style for "Rectangle" */
 .header {
@@ -12,7 +15,6 @@
   width: 1410px;
   height: 450px;
   z-index: -1;
-  opacity: 0.9;
 }
 
 /* Style for "LOGO" */
@@ -29,6 +31,506 @@
   position: relative;
   top: 0;
   left: 0;
+}
+
+/* Style for "CONNECTING" */
+.home-header-tekst {
+  position: absolute;
+  top: 526px;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "home tekst intro" */
+.home-tekst-intro {
+  position: absolute;
+  text-align: center;
+  top: 590px;
+  left: 142px;
+  width: 1156px;
+  height: 178px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "intro 2" */
+.home-tekst-intro-2 {
+  position: absolute;
+  top: 808px;
+  left: 142px;
+  width: 1156px;
+  height: 178px;
+  color: #737373;
+  font-family: Catamaran;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "sxm" */
+.sxm {
+  position: absolute;
+  top: 1142px;
+  left: 142px;
+  width: 540px;
+  height: 333px;
+}
+
+/* Style for "sxm" */
+.sxm-2 {
+  position: absolute;
+  top: 1142px;
+  left: 758px;
+  width: 540px;
+  height: 333px;
+}
+
+/* Style for "tekst" */
+.sxm-tekst {
+  position: absolute;
+  top: 1547px;
+  left: 154px;
+  width: 518px;
+  height: 446px;
+  color: #737373;
+  font-family: "Catamaran";
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 48px;
+}
+
+/* Style for "tekst" */
+.sxm-tekst-2 {
+  position: absolute;
+  top: 1547px;
+  left: 764px;
+  width: 518px;
+  height: 446px;
+  color: #737373;
+  font-family: "Catamaran";
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 48px;
+}
+
+/* Style for "home line" */
+.home-line {
+  position: absolute;
+  top: 2050px;
+  left: 24px;
+  width: 1392px;
+  height: 4px;
+  background-color: #818181;
+}
+
+/* Style for "convinced" */
+.convinced-header {
+  position: absolute;
+  text-align: center;
+  top: 2108px;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "convinced intro" */
+.convinced-intro{
+  position: absolute;
+  top: 2200px;
+  text-align: center;
+  left: 260px;
+  width: 920px;
+  height: 84px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+/* Style for "convinced button" */
+.convinced-button {
+  position: absolute;
+  top: 2380px;
+  left: 614px;
+  width: 212px;
+  height: 68px;
+  border: 4px solid #81d5ed;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "footer login" */
+.footer-home{
+  position: absolute;
+  top: 2600px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+/* Style for "Time" */
+.services-time {
+  position: absolute;
+  top: 860px;
+  left: 260px;
+  width: 53px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "2 hour" */
+.services-hour {
+  position: absolute;
+  top: 864px;
+  left: 496px;
+  width: 56px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "Complexity" */
+.services-complexity {
+  position: absolute;
+  top: 919px;
+  left: 259px;
+  width: 119px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "Star" */
+.complexity-stars {
+  position: absolute;
+  top: 970px;
+  left: 496px;
+  width: 150px;
+  height: 37px;
+}
+
+
+/* Style for "Target aud" */
+.services-audience {
+  position: absolute;
+  top: 978px;
+  left: 260px;
+  width: 171px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "Starters" */
+.audience-starters {
+  position: absolute;
+  top: 990px;
+  left: 496px;
+  width: 70px;
+  height: 34px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+/* Style for "download" */
+.download-services{
+  position: absolute;
+  top: 890px;
+  left: 1086px;
+  width: 146px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "DOWNLOAD +" */
+.download-source-services {
+  position: absolute;
+  top: 990px;
+  left: 1086px;
+  width: 146px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "DESIGN THI" */
+.design-thinking {
+  position: absolute;
+  top: 1190px;
+  left: 211px;
+  width: 335px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "DESIGN WOR" */
+.design-working {
+  position: absolute;
+  top: 1190px;
+  left: 847px;
+  width: 333px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "working tekst 1" */
+.working-tekst1 {
+  position: absolute;
+  top: 1288px;
+  left: 780px;
+  width: 518px;
+  height: 483px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "design thin" */
+.working-tekst2  {
+  position: absolute;
+  top: 1771px;
+  left: 780px;
+  width: 518px;
+  height: 404px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "STEP 1" */
+.working-step1 {
+  position: absolute;
+  top: 2208px;
+  left: 783px;
+  width: 134px;
+  height: 46px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "step 1 tekst 1" */
+.working-step1-tekst1 {
+  position: absolute;
+  top: 2274px;
+  left: 780px;
+  width: 518px;
+  height: 404px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "STEP 2" */
+.working-step2 {
+  position: absolute;
+  top: 2711px;
+  left: 783px;
+  width: 134px;
+  height: 46px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "working step 2 tekst 1" */
+.working-step2-tekst1{
+  position: absolute;
+  top: 2781px;
+  left: 780px;
+  width: 518px;
+  height: 483px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "design thinking tekst1" */
+.thinking-tekst1 {
+  position: absolute;
+  top: 1288px;
+  left: 142px;
+  width: 518px;
+  height: 483px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "design thin" */
+.thinking-tekst2 {
+  position: absolute;
+  top: 1771px;
+  left: 142px;
+  width: 518px;
+  height: 404px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+
+/* Style for "STEP 1" */
+.thinking-step1 {
+  position: absolute;
+  top: 2208px;
+  left: 142px;
+  width: 134px;
+  height: 46px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "step 1 tekst 1" */
+.thinking-step1-tekst1 {
+  position: absolute;
+  top: 2274px;
+  left: 142px;
+  width: 518px;
+  height: 404px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "STEP 2" */
+.thinking-step2 {
+  position: absolute;
+  top: 2711px;
+  left: 142px;
+  width: 134px;
+  height: 46px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "step 2 tekst 1" */
+.thinking-step2-tekst1{
+  position: absolute;
+  top: 2781px;
+  left: 142px;
+  width: 518px;
+  height: 483px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+/* Style for "button thinking" */
+.button-thinking {
+  position: absolute;
+  top: 3300px;
+  left: 328px;
+  width: 146px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "button working" */
+.button-working {
+  position: absolute;
+  top: 3300px;
+  left: 966px;
+  width: 146px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
 }
 
 /* Style for "SERVICES" */
@@ -1799,7 +2301,7 @@ a.sitemap-content {
 }
 
 /* Style for "Training tekst" */
-.training-tekst {
+.training-tekst-1 {
   position: absolute;
   text-align: center;
   top: 590px;
@@ -2407,6 +2909,375 @@ button {
 .footer-training-detail {
   position: absolute;
   top: 4098px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+
+/* Style for "authentica" */
+.authentication-header {
+  position: absolute;
+  top: 181px;
+  text-align: center;
+  left: 500px;
+  width: 441px;
+  height: 86px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "login" */
+.login-header {
+  position: absolute;
+  top: 521px;
+  left: 661px;
+  text-align: center;
+  width: 119px;
+  height: 67px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "ENTER YOUR" */
+.login-intro{
+  position: absolute;
+  top: 645px;
+  left: 516px;
+  text-align: center;
+  width: 408px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "footer login" */
+.footer-login-detail{
+  position: absolute;
+  top: 1150px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+/* Style for "EMAIL" */
+.login-email {
+  position: absolute;
+  top: 746px;
+  left: 236px;
+  width: 69px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "PASSWORD" */
+.login-password {
+  position: absolute;
+  top: 746px;
+  left: 826px;
+  width: 127px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "login field" */
+.loginfield {
+  position: absolute;
+  top: 846px;
+  left: 236px;
+  width: 379px;
+  height: 61px;
+  border-radius: 4px;
+  border: 3px solid #81d5ed;
+}
+
+/* Style for "password field" */
+.passwordfield{
+  position: absolute;
+  top: 846px;
+  left: 826px;
+  width: 379px;
+  height: 61px;
+  border-radius: 4px;
+  border: 3px solid #81d5ed;
+}
+
+/* Style for "Not regist" */
+.not-registred {
+  position: absolute;
+  top: 886px;
+  left: 236px;
+  width: 338px;
+  height: 39px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "Troubles i" */
+.trouble-login {
+  position: absolute;
+  top: 945px;
+  left: 236px;
+  width: 388px;
+  height: 39px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "Rectangle" */
+.login-authentication {
+  position: absolute;
+  top: 950px;
+  left: 826px;
+  width: 146px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "SELECT YOU" */
+.select-your-role {
+  position: absolute;
+  text-align: center;
+  top: 481px;
+  left: 532px;
+  width: 469px;
+  height: 86px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "select role intro" */
+.selectrole-intro{
+  position: absolute;
+  text-align: center;
+  top: 580px;
+  left: 260px;
+  width: 920px;
+  height: 167px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 38px;
+}
+
+/* Style for "vakje entrepreneur" */
+.entrepreneur-rect {
+  position: absolute;
+  top: 878px;
+  left: 15px;
+  width: 441px;
+  height: 492px;
+}
+
+/* Style for "•  tekst" */
+.entrepreneur-tekst {
+  position: absolute;
+  top: 1218px;
+  left: 90px;
+  width: 320px;
+  height: 85px;
+  color: #000000;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Style for "radio entrepreneur" */
+.radio-entrepreneur{
+  position: absolute;
+  top: 1450px;
+  left: 177px;
+  width: 19px;
+  height: 19px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "ENTREPRENE" */
+.entrepreneur-name {
+  position: absolute;
+  top: 1436px;
+  left: 205px;
+  width: 122px;
+  height: 28px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "vakje mentor" */
+.mentor-rect {
+  position: absolute;
+  top: 878px;
+  left: 486px;
+  width: 441px;
+  height: 492px;
+}
+
+/* Style for "•  tekst" */
+.mentor-tekst {
+  position: absolute;
+  top: 1218px;
+  left: 579px;
+  width: 320px;
+  height: 85px;
+  color: #000000;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Style for "Oval 5" */
+.radio-mentor {
+  position: absolute;
+  top: 1450px;
+  left: 673px;
+  width: 19px;
+  height: 19px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "MENTOR" */
+.mentor-name {
+  position: absolute;
+  top: 1436px;
+  left: 702px;
+  width: 65px;
+  height: 28px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "vakje investor" */
+.investor-rect {
+  position: absolute;
+  top: 878px;
+  left: 957px;
+  width: 441px;
+  height: 492px;
+}
+
+/* Style for "•  tekst" */
+.investor-tekst {
+  position: absolute;
+  top: 1218px;
+  left: 1048px;
+  width: 320px;
+  height: 85px;
+  color: #000000;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Style for "Oval 5" */
+.radio-investor {
+  position: absolute;
+  top: 1450px;
+  left: 1155px;
+  width: 19px;
+  height: 19px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "INVESTOR" */
+.investor-name {
+  position: absolute;
+  top: 1436px;
+  left: 1184px;
+  width: 77px;
+  height: 28px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "footer login" */
+.footer-selectrole-detail{
+  position: absolute;
+  top: 1750px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+/* Style for "Select-role-button" */
+.select-role-button {
+  position: absolute;
+  top: 1600px;
+  left: 647px;
+  width: 146px;
+  height: 48px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+.header-home {
+  position: absolute;
+  top: 181px;
+  left: 196px;
+  width: 1049px;
+  height: 86px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.footer-design {
+  position: absolute;
+  top: 3512px;
   left: 0;
   width: 1440px;
   height: 1019px;

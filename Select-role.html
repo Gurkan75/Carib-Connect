@@ -5,12 +5,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/unchecked.js"></script>
+
 
 </head>
 <body>
 	<div class="header">
 		<img class="logo-header" src="image/logo.png">
 		<img class="header-image" src="image/car.png">
+
 
 			<ul>
 			  <li class="services"><a class="nav" href="Services.html">Services</a></li>
@@ -21,49 +24,54 @@
 			  <li class="membership"><a class="nav" href="Membership.html">Membership</a></li>
 			  <li class="training"><a class="nav" href="Training.html">Training</a></li>
 			  <li class="profile"><a class="nav" href="Edit.html">Profile</a></li>
-			  <button class="log-out"><a class="nav" href="Login.html">Log-out</button></a>
+			  <button class="log-out"><a class="nav" href="Login.html">Log-in</button></a>
 			</ul>
 
 			<img class="hamburger-menu" src="image/hamburger-icon.png"> 
 
-		<h1 class="header-training">Training</h1>
+		<h1 class="authentication-header">Sign up Form</h1>
 	</div>
 
-	<div class="training-makes-better">
-		<h1 class="training-koptekst">Training makes better</h1>
-		<p class="training-tekst-1">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+	<div>
+		<h2 class="select-your-role">Select your role</h2>
+		<p class="selectrole-intro" >
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad laboris. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 		</p>
 	</div>
 
 	<div>
-		<a class="nav" href="Training-detail.html">
-		<img class="training-1" src="image/training-picture.png">
-			<h3 class="training-1-tekst">How to succesfully grow</h3></a>
-		<img class="training-2" src="image/training-picture.png">
-			<h3 class="training-2-tekst">Training 2</h3>
-		<img class="training-3" src="image/training-picture.png">
-			<h3 class="training-3-tekst">Training 3</h3>
-		<img class="training-4" src="image/training-picture.png">
-			<h3 class="training-4-tekst">Training 4</h3>
+		<img class="entrepreneur-rect" src="image/entrepreneur-rect.png">
+			<ul class="entrepreneur-tekst">
+				<li>Maximum 5 website pages</li>	
+				<li>1 Hour of support</li>	
+				<li>A meeting with our advice</li>	
+			</ul>
+			<input name="checked" type="radio" class="radio-entrepreneur"><p class="entrepreneur-name">Entrepreneur</p> 
 
-		<img class="training-5" src="image/training-picture.png">
-			<h3 class="training-5-tekst">Training 5</h3>
-		<img class="training-6" src="image/training-picture.png">
-			<h3 class="training-6-tekst">Training 6</h3>
-		<img class="training-7" src="image/training-picture.png">
-			<h3 class="training-7-tekst">Training 7</h3>
-		<img class="training-8" src="image/training-picture.png">
-			<h3 class="training-8-tekst">Training 8</h3>
+		<img class="mentor-rect" src="image/mentor-rect.png">
+			<ul class="mentor-tekst">
+				<li>Maximum 5 website pages</li>	
+				<li>1 Hour of support</li>	
+				<li>A meeting with our advice</li>	
+			</ul>
+			<input name="checked" type="radio" class="radio-mentor"><p class="mentor-name">Mentor</p> 
+
+		<img class="investor-rect" src="image/investor-rect.png">
+			<ul class="investor-tekst">
+				<li>Maximum 5 website pages</li>	
+				<li>1 Hour of support</li>	
+				<li>A meeting with our advice</li>	
+			</ul>
+			<input name="checked" type="radio" class="radio-investor"><p class="investor-name">Investor</p> 
+
+			<a href=""><button class="select-role-button">submit</button></a>
+
 
 	</div>
 
-
-		
-
 </body>
 <footer>
-	<div class="footer-training">
+	<div class="footer-selectrole-detail">
 		<h1 class="convinced">Convinced?</h1>
 		<p class="convinced-text">
 			Only for entrepreneurs, mentors and investors that want to push boundaries, share knowledge & bring ideas to reality.
@@ -103,6 +111,7 @@
 
 	</div>
 </footer>
+
 
 </html>
 
