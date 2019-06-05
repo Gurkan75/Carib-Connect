@@ -3284,6 +3284,336 @@ button {
   background-color: #1b2336;
 }
 
+/* Style for "project 1" */
+.header-project1 {
+  position: absolute;
+  top: 181px;
+  left: 601px;
+  width: 239px;
+  height: 86px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "project header" */
+.project1-header-tekst {
+  position: absolute;
+  top: 526px;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "image project" */
+.project-image {
+  position: absolute;
+  top: 1050px;
+  left: 24px;
+  width: 1392px;
+  height: 792px;
+}
+
+/* Style for "project-discription" */
+.project-discription {
+  position: absolute;
+  top: 1700px;
+  left: 60px;
+  width: 1260px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "Chapter 1" */
+.chapter1 {
+  position: absolute;
+  top: 1940px;
+  left: 142px;
+  width: 364px;
+  height: 28px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "chapter 1 tekst" */
+.chapter1-tekst {
+  position: absolute;
+  top: 2030px;
+  left: 172px;
+  width: 304px;
+  height: 366px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  text-transform: lowercase;
+}
+
+/* Style for "Chapter 2" */
+.chapter2 {
+  position: absolute;
+  top: 1940px;
+  left: 538px;
+  width: 364px;
+  text-align: center;
+  height: 28px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "chapter 2 tekst" */
+.chapter2-tekst {
+  position: absolute;
+  top: 2030px;
+  left: 568px;
+  width: 304px;
+  height: 366px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  text-transform: lowercase;
+}
+
+/* Style for "Chapter 3" */
+.chapter3 {
+  position: absolute;
+  top: 1940px;
+  left: 934px;
+  width: 364px;
+  height: 28px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "chapter 3 tekst" */
+.chapter3-tekst {
+  position: absolute;
+  top: 2030px;
+  left: 964px;
+  width: 304px;
+  height: 366px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  text-transform: lowercase;
+}
+
+/* Style for "close project button" */
+.close-project-button{
+  position: absolute;
+  top: 2475px;
+  left: 647px;
+  width: 146px;
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "modular is" */
+.membership-header {
+  position: absolute;
+  top: 558px;
+  left: 260px;
+  width: 920px;
+  height: 38px;
+  text-align: center;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0.75px;
+  text-transform: uppercase;
+}
+
+/* Style for "Flexible &" */
+.membership-intro{
+  position: absolute;
+  top: 624px;
+  left: 260px;
+  text-align: center;
+  width: 920px;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Style for "freemium" */
+.freemium {
+  position: absolute;
+  top: 750px;
+  left: 142px;
+  width: 364px;
+  height: 588px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+}
+
+/* Style for "advanced" */
+.advanced{
+  position: absolute;
+  top: 750px;
+  left: 538px;
+  width: 364px;
+  height: 588px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+}
+
+/* Style for "premium" */
+.premium {
+  position: absolute;
+  top: 750px;
+  left: 934px;
+  width: 364px;
+  height: 588px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+}
+
+/* Style for "tekst" */
+.freemium-tekst {
+  position: absolute;
+  top: 1146px;
+  left: 164px;
+  width: 320px;
+  height: 85px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Style for "tekst" */
+.advanced-tekst{
+  position: absolute;
+  top: 1146px;
+  left: 560px;
+  width: 320px;
+  height: 85px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Style for "tekst" */
+.premium-tekst{
+  position: absolute;
+  top: 1146px;
+  left: 956px;
+  width: 320px;
+  height: 85px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Style for "button freemium" */
+.freemium-button {
+  position: absolute;
+  top: 1260px;
+  left: 156px;
+  width: 336px;
+  height: 52px;
+  border-radius: 5px;
+  border: 1px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "button advanced" */
+.advanced-button {
+  position: absolute;
+  top: 1260px;
+  left: 552px;
+  width: 336px;
+  height: 52px;
+  border-radius: 5px;
+  border: 1px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "button premium" */
+.premium-button {
+  position: absolute;
+  top: 1260px;
+  left: 948px;
+  width: 336px;
+  height: 52px;
+  border-radius: 5px;
+  border: 1px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "footer login" */
+.footer-membership{
+  position: absolute;
+  top: 1550px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
 ::placeholder {
   position: absolute;
   top: 6141px;
