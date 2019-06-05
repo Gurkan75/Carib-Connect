@@ -2507,7 +2507,23 @@ a.sitemap-content {
   background-color: #1b2336;
 }
 
+.footer-event {
+  position: absolute;
+  top: 2300px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
 
+.footer-eventfilter {
+  position: absolute;
+  top: 1880px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
 
 /* Style for "how to suc" */
 .header-training-detail {
@@ -2909,6 +2925,15 @@ button {
 .footer-training-detail {
   position: absolute;
   top: 4098px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+.footer-event-detail {
+  position: absolute;
+  top: 6598px;
   left: 0;
   width: 1440px;
   height: 1019px;
@@ -3603,7 +3628,6 @@ button {
   text-transform: uppercase;
 }
 
-
 /* Style for "footer login" */
 .footer-membership{
   position: absolute;
@@ -3612,6 +3636,2398 @@ button {
   width: 1440px;
   height: 1019px;
   background-color: #1b2336;
+}
+
+/* Style for "All Events" */
+.all-events {
+  position: absolute;
+  top: 495px;
+  left: 295px;
+  width: 123px;
+  height: 48px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* Style for "all events line" */
+.allevents-line {
+  position: absolute;
+  top: 560px;
+  left: 297px;
+  width: 117px;
+  height: 1px;
+  border: 2px solid #81d5ed;
+}
+
+/* Style for "Today" */
+.today {
+  position: absolute;
+  top: 495px;
+  left: 472px;
+  width: 77px;
+  height: 48px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* Style for "Tomorrow" */
+.tomorrow {
+  position: absolute;
+  top: 495px;
+  left: 604px;
+  width: 129px;
+  height: 48px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* Style for "This Week" */
+.this-week {
+  position: absolute;
+  top: 495px;
+  left: 792px;
+  width: 127px;
+  height: 48px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* Style for "Saved Even" */
+.saved-events {
+  position: absolute;
+  top: 495px;
+  left: 979px;
+  width: 163px;
+  height: 48px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* Style for "284 Events" */
+.total-events {
+  position: absolute;
+  top: 563px;
+  left: 602px;
+  width: 248px;
+  height: 86px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+}
+
+/* Style for "event filte 1" */
+.event-filter-1 {
+  position: absolute;
+  top: 685px;
+  left: 402px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 1" */
+.cancel-1 {
+  position: absolute;
+  top: 698px;
+  left: 411px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 2" */
+.event-filter-2 {
+  position: absolute;
+  top: 685px;
+  left: 572px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 2" */
+.cancel-2 {
+  position: absolute;
+  top: 698px;
+  left: 581px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 3" */
+.event-filter-3{
+  position: absolute;
+  top: 685px;
+  left: 742px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 3" */
+.cancel-3 {
+  position: absolute;
+  top: 698px;
+  left: 751px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 4" */
+.event-filter-4 {
+  position: absolute;
+  top: 685px;
+  left: 912px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 4" */
+.cancel-4 {
+  position: absolute;
+  top: 698px;
+  left: 921px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 5" */
+.event-filter-5 {
+  position: absolute;
+  top: 745px;
+  left: 402px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 5" */
+.cancel-5 {
+  position: absolute;
+  top: 758px;
+  left: 411px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 6" */
+.event-filter-6 {
+  position: absolute;
+  top: 745px;
+  left: 572px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 6" */
+.cancel-6 {
+  position: absolute;
+  top: 758px;
+  left: 581px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 7" */
+.event-filter-7 {
+  position: absolute;
+  top: 745px;
+  left: 742px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 7" */
+.cancel-7 {
+  position: absolute;
+  top: 758px;
+  left: 751px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "event filter 8" */
+.event-filter-8 {
+  position: absolute;
+  top: 745px;
+  left: 912px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 8" */
+.cancel-8 {
+  position: absolute;
+  top: 758px;
+  left: 921px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "search" */
+.event-search {
+  position: absolute;
+  top: 834px;
+  left: 419px;
+  width: 225px;
+  height: 32px;
+  border-radius: 4px;
+  border: 3px solid #81d5ed;
+}
+
+/* Style for "dropdown button" */
+.dropbutton {
+  position: absolute;
+  top: 834px;
+  left: 797px;
+  width: 225px;
+  height: 40px;
+  border-radius: 4px;
+  border: 3px solid #81d5ed;
+  background-color: transparent;
+  text-transform: uppercase;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "filter button" */
+.filter-button-event{
+  position: absolute;
+  top: 834px;
+  left: 684px;
+  width: 73px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #81d5ed;
+}
+
+/* Style for "event-1" */
+.event-1 {
+  position: absolute;
+  top: 940px;
+  left: 128px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-1-tekst {
+  position: absolute;
+  top: 1104px;
+  left: 143px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 1 button" */
+.event-1-button {
+  position: absolute;
+  top: 1149px;
+  left: 358px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "event-2 */
+.event-2{
+  position: absolute;
+  top: 940px;
+  left: 556px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-2-tekst {
+  position: absolute;
+  top: 1104px;
+  left: 566px;
+  width: 308px;
+  height: 46px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "event 2 button" */
+.event-2-button {
+  position: absolute;
+  top: 1149px;
+  left: 786px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "event-3 */
+.event-3{
+  position: absolute;
+  top: 940px;
+  left: 984px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-3-tekst {
+  position: absolute;
+  top: 1104px;
+  left: 994px;
+  width: 308px;
+  height: 46px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "event 3 button" */
+.event-3-button {
+  position: absolute;
+  top: 1149px;
+  left: 1214px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+
+/* Style for "event-4" */
+.event-4 {
+  position: absolute;
+  top: 1240px;
+  left: 128px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-4-tekst {
+  position: absolute;
+  top: 1404px;
+  left: 143px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 1 button" */
+.event-4-button {
+  position: absolute;
+  top: 1449px;
+  left: 358px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "event-5" */
+.event-5{
+  position: absolute;
+  top: 1240px;
+  left: 556px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-5-tekst {
+  position: absolute;
+  top: 1404px;
+  left: 566px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 5 button" */
+.event-5-button {
+  position: absolute;
+  top: 1449px;
+  left: 786px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "event-6" */
+.event-6{
+  position: absolute;
+  top: 1240px;
+  left: 984px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-6-tekst {
+  position: absolute;
+  top: 1404px;
+  left: 994px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 6 button" */
+.event-6-button {
+  position: absolute;
+  top: 1449px;
+  left: 1214px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "event-7" */
+.event-7{
+  position: absolute;
+  top: 1546px;
+  left: 128px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-7-tekst {
+  position: absolute;
+  top: 1710px;
+  left: 143px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 7 button" */
+.event-7-button {
+  position: absolute;
+  top: 1755px;
+  left: 358px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "event-8" */
+.event-8{
+  position: absolute;
+  top: 1546px;
+  left: 556px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-8-tekst {
+  position: absolute;
+  top: 1710px;
+  left: 566px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 8 button" */
+.event-8-button {
+  position: absolute;
+  top: 1755px;
+  left: 786px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+
+/* Style for "event-9" */
+.event-9{
+  position: absolute;
+  top: 1546px;
+  left: 984px;
+  width: 388px;
+  height: 264px;
+}
+
+/* Style for "Title en date" */
+.event-9-tekst {
+  position: absolute;
+  top: 1710px;
+  left: 994px;
+  width: 308px;
+  height: 30px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event 9 button" */
+.event-9-button {
+  position: absolute;
+  top: 1755px;
+  left: 1214px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "left arrow event" */
+.arrow-left-event {
+  position: absolute;
+  top: 2070px;
+  left: 378px;
+  width: 71px;
+  height: 59px;
+}
+
+/* Style for "Shape" */
+.arrow-right-event {
+  position: absolute;
+  top: 2070px;
+  left: 991px;
+  width: 71px;
+  height: 59px;
+}
+
+/* Style for "1  2  3  4" */
+.event-nummering{
+  position: absolute;
+  top: 2075px;
+  left: 530px;
+  width: 400px;
+  height: 48px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+}
+
+
+/* Style for "Filter-background" */
+.filter-background {
+  position: absolute;
+  top: 450px;
+  left: 0;
+  width: 354px;
+  height: 1881px;
+  border: 2px solid #737373;
+  background-color: #ffffff;
+}
+
+/* Style for "filter-logo" */
+.filter-logo {
+  position: absolute;
+  top: 51px;
+  left: 56px;
+  width: 57px;
+  height: 57px;
+}
+
+/* Style for "filter icon 2" */
+.filter-icon-2 {
+  position: absolute;
+  top: 65px;
+  left: 66px;
+  width: 38px;
+  height: 38px;
+}
+
+/* Style for "Filters" */
+.filters {
+  position: absolute;
+  top: 0px;
+  left: 135px;
+  width: 141px;
+  height: 86px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+}
+
+/* Style for "filter cancel" */
+.filter-cancel {
+  position: absolute;
+  top: 9px;
+  left: 322px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for "Event Type" */
+.event-type {
+  position: absolute;
+  top: 188px;
+  left: 24px;
+  width: 158px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox-1" */
+.checkbox-1 {
+  position: absolute;
+  top: 291px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Training" */
+.filter-training {
+  position: absolute;
+  top: 280px;
+  left: 45px;
+  width: 73px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 2" */
+.checkbox-2 {
+  position: absolute;
+  top: 321px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Informatio" */
+.filter-information {
+  position: absolute;
+  top: 310px;
+  left: 45px;
+  width: 106px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 3" */
+.checkbox-3 {
+  position: absolute;
+  top: 351px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Innovation" */
+.filter-innovation {
+  position: absolute;
+  top: 340px;
+  left: 45px;
+  width: 96px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 4" */
+.checkbox-4 {
+  position: absolute;
+  top: 381px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Networking" */
+.filter-networking {
+  position: absolute;
+  top: 370px;
+  left: 45px;
+  width: 104px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "Date & Tim" */
+.date-time-filter {
+  position: absolute;
+  top: 403px;
+  left: 24px;
+  width: 174px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "kalender date time" */
+.kalender {
+  position: absolute;
+  top: 523px;
+  left: 24px;
+  width: 240px;
+  height: 180px;
+}
+
+/* Style for "Island" */
+.island {
+  position: absolute;
+  top: 690px;
+  left: 24px;
+  width: 84px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 5" */
+.checkbox-5 {
+  position: absolute;
+  top: 793px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Aruba" */
+.filter-aruba {
+  position: absolute;
+  top: 785px;
+  left: 45px;
+  width: 53px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 6" */
+.checkbox-6 {
+  position: absolute;
+  top: 823px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Bonaire" */
+.filter-bonaire {
+  position: absolute;
+  top: 815px;
+  left: 45px;
+  width: 68px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 7" */
+.checkbox-7 {
+  position: absolute;
+  top: 853px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Curacao" */
+.filter-curacao {
+  position: absolute;
+  top: 845px;
+  left: 45px;
+  width: 71px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 8" */
+.checkbox-8 {
+  position: absolute;
+  top: 883px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Sint Maart" */
+.filter-sintmaarten {
+  position: absolute;
+  top: 875px;
+  left: 45px;
+  width: 111px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 9" */
+.checkbox-9 {
+  position: absolute;
+  top: 913px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Sint Eusta" */
+.filter-sinteustatius {
+  position: absolute;
+  top: 905px;
+  left: 45px;
+  width: 121px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 10" */
+.checkbox-10 {
+  position: absolute;
+  top: 943px;
+  left: 24px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Cayman Isl" */
+.filter-caymanislands {
+  position: absolute;
+  top: 935px;
+  left: 45px;
+  width: 140px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "Sector" */
+.sector-filter {
+  position: absolute;
+  top: 965px;
+  left: 24px;
+  width: 91px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 11" */
+.checkbox-11 {
+  position: absolute;
+  top: 1068px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Retail and" */
+.filter-retail {
+  position: absolute;
+  top: 1060px;
+  left: 46px;
+  width: 180px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 12" */
+.checkbox-12{
+  position: absolute;
+  top: 1098px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Advertisin" */
+.filter-advertising {
+  position: absolute;
+  top: 1090px;
+  left: 48px;
+  width: 101px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 13" */
+.checkbox-13{
+  position: absolute;
+  top: 1128px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Transport" */
+.filter-transport {
+  position: absolute;
+  top: 1120px;
+  left: 48px;
+  width: 87px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 14" */
+.checkbox-14{
+  position: absolute;
+  top: 1158px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Business" */
+.filter-business {
+  position: absolute;
+  top: 1149px;
+  left: 48px;
+  width: 76px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 15" */
+.checkbox-15{
+  position: absolute;
+  top: 1188px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Healthcare" */
+.filter-healthcare {
+  position: absolute;
+  top: 1180px;
+  left: 48px;
+  width: 96px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 16" */
+.checkbox-16{
+  position: absolute;
+  top: 1218px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Education" */
+.filter-education {
+  position: absolute;
+  top: 1210px;
+  left: 48px;
+  width: 89px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "City" */
+.city-filter {
+  position: absolute;
+  top: 1240px;
+  left: 24px;
+  width: 55px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 17" */
+.checkbox-17 {
+  position: absolute;
+  top: 1343px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Little Bay" */
+.filter-littlebay {
+  position: absolute;
+  top: 1335px;
+  left: 48px;
+  width: 84px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 18" */
+.checkbox-18 {
+  position: absolute;
+  top: 1373px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Philipsbur" */
+.filter-philipsburg {
+  position: absolute;
+  top: 1365px;
+  left: 47px;
+  width: 99px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 19" */
+.checkbox-19 {
+  position: absolute;
+  top: 1403px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Simpson Ba" */
+.filter-simpsonbay {
+  position: absolute;
+  top: 1395px;
+  left: 48px;
+  width: 112px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 20" */
+.checkbox-20 {
+  position: absolute;
+  top: 1433px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Cole Bay" */
+.filter-colebay {
+  position: absolute;
+  top: 1425px;
+  left: 48px;
+  width: 76px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 21 */
+.checkbox-21 {
+  position: absolute;
+  top: 1463px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Sint Maart" */
+.filter-maartensburg {
+  position: absolute;
+  top: 1455px;
+  left: 48px;
+  width: 161px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 22 */
+.checkbox-22 {
+  position: absolute;
+  top: 1493px;
+  left: 27px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "Sint Maart" */
+.filter-vlotburg {
+  position: absolute;
+  top: 1485px;
+  left: 48px;
+  width: 195px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "ROAD TO GE" */
+.header-event-hackathon {
+  position: absolute;
+  top: 172px;
+  left: 242px;
+  width: 925px;
+  height: 159px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 64px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "SPEAKERS" */
+.speakers {
+  position: absolute;
+  top: 1332px;
+  left: 405px;
+  width: 622px;
+  text-align: center;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.speakers-line {
+  position: absolute;
+  top: 1440px;
+  left: 261px;
+  width: 918px;
+  height: 1px;
+  border: 2px solid #737373;
+}
+
+/* Style for " speaker-1" */
+.speaker-1{
+  position: absolute;
+  top: 1478px;
+  left: 142px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-1 {
+  position: absolute;
+  top: 1642px;
+  left: 213px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-1 {
+  position: absolute;
+  top: 1685px;
+  left: 165px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-1{
+  position: absolute;
+  top: 1765px;
+  left: 237px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-2" */
+.speaker-2{
+  position: absolute;
+  top: 1478px;
+  left: 455px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-2 {
+  position: absolute;
+  top: 1642px;
+  left: 526px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-2 {
+  position: absolute;
+  top: 1685px;
+  left: 477px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-2{
+  position: absolute;
+  top: 1765px;
+  left: 551px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-3" */
+.speaker-3{
+  position: absolute;
+  top: 1478px;
+  left: 769px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-3{
+  position: absolute;
+  top: 1642px;
+  left: 838px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-3 {
+  position: absolute;
+  top: 1685px;
+  left: 792px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-3 {
+  position: absolute;
+  top: 1765px;
+  left: 863px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-4" */
+.speaker-4{
+  position: absolute;
+  top: 1478px;
+  left: 1085px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-4{
+  position: absolute;
+  top: 1642px;
+  left: 1156px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-4 {
+  position: absolute;
+  top: 1685px;
+  left: 1110px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-4 {
+  position: absolute;
+  top: 1765px;
+  left: 1181px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-5" */
+.speaker-5{
+  position: absolute;
+  top: 1814px;
+  left: 142px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-5{
+  position: absolute;
+  top: 1979px;
+  left: 213px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-5 {
+  position: absolute;
+  top: 2022px;
+  left: 165px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-5{
+  position: absolute;
+  top: 2102px;
+  left: 237px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-6" */
+.speaker-6{
+  position: absolute;
+  top: 1814px;
+  left: 455px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-6{
+  position: absolute;
+  top: 1979px;
+  left: 527px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-6{
+  position: absolute;
+  top: 2022px;
+  left: 478px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-6{
+  position: absolute;
+  top: 2102px;
+  left: 552px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-7" */
+.speaker-7{
+  position: absolute;
+  top: 1814px;
+  left: 769px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-7{
+  position: absolute;
+  top: 1979px;
+  left: 838px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-7{
+  position: absolute;
+  top: 2022px;
+  left: 792px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-7{
+  position: absolute;
+  top: 2102px;
+  left: 863px;
+  width: 21px;
+  height: 21px;
+}
+
+
+/* Style for " speaker-8" */
+.speaker-8{
+  position: absolute;
+  top: 1814px;
+  left: 1085px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-8{
+  position: absolute;
+  top: 1979px;
+  left: 1156px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-8{
+  position: absolute;
+  top: 2022px;
+  left: 1110px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-8{
+  position: absolute;
+  top: 2102px;
+  left: 1181px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-9" */
+.speaker-9{
+  position: absolute;
+  top: 2150px;
+  left: 142px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-9{
+  position: absolute;
+  top: 2314px;
+  left: 213px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-9 {
+  position: absolute;
+  top: 2357px;
+  left: 165px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-9{
+  position: absolute;
+  top: 2437px;
+  left: 237px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-10" */
+.speaker-10{
+  position: absolute;
+  top: 2150px;
+  left: 455px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-10{
+  position: absolute;
+  top: 2314px;
+  left: 526px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-10{
+  position: absolute;
+  top: 2357px;
+  left: 477px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-10{
+  position: absolute;
+  top: 2437px;
+  left: 551px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-11" */
+.speaker-11{
+  position: absolute;
+  top: 2150px;
+  left: 769px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-11{
+  position: absolute;
+  top: 2314px;
+  left: 838px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-11{
+  position: absolute;
+  top: 2357px;
+  left: 792px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-11{
+  position: absolute;
+  top: 2437px;
+  left: 863px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for " speaker-12" */
+.speaker-12{
+  position: absolute;
+  top: 2150px;
+  left: 1085px;
+  width: 212px;
+  height: 200px;
+}
+
+/* Style for "NAME" */
+.name-speaker-12{
+  position: absolute;
+  top: 2314px;
+  left: 1153px;
+  width: 73px;
+  height: 39px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "COMPANY NA" */
+.company-speaker-12{
+  position: absolute;
+  top: 2357px;
+  left: 1107px;
+  width: 166px;
+  height: 33px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LinkedIn__" */
+.linkedin-speaker-12{
+  position: absolute;
+  top: 2437px;
+  left: 1178px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Style for "PROGRAM" */
+.event-detail-program {
+  position: absolute;
+  text-align: center;
+  top: 2585px;
+  left: 424px;
+  width: 595px;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Bitmap" */
+.program-table-event {
+  position: absolute;
+  top: 2820px;
+  left: 142px;
+  width: 1156px;
+  height: 230px;
+  border: 1px solid #979797;
+}
+
+/* Style for "Line" */
+.program-line-event {
+  position: absolute;
+  top: 2693px;
+  left: 262px;
+  width: 918px;
+  height: 1px;
+  border: 2px solid #737373;
+}
+
+/* Style for "Rectangle" */
+.program-button-event-1{
+  position: absolute;
+  top: 2740px;
+  left: 569px;
+  width: 140px;
+  height: 48px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase
+}
+
+/* Style for "Rectangle" */
+.program-button-event-2 {
+  position: absolute;
+  top: 2740px;
+  left: 729px;
+  width: 142px;
+  height: 48px;
+  border-radius: 5px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "LOCATION" */
+.location-event {
+  position: absolute;
+  top: 3173px;
+  text-align: center;
+  left: 424px;
+  width: 595px;
+  height: 38px;
+  color: #81d5ed;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.location-event-line {
+  position: absolute;
+  top: 3281px;
+  left: 262px;
+  width: 918px;
+  height: 1px;
+  border: 2px solid #737373;
+}
+
+/* Style for "Rectangle" */
+.google-maps-event {
+  position: absolute;
+  top: 3326px;
+  left: 0;
+  width: 1442px;
+  height: 302px;
+}
+
+/* Style for "costs" */
+.event-costs {
+  position: absolute;
+  top: 50px;
+  left: 260px;
+  text-align: center;
+  width: 920px;
+  height: 52px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0.94px;
+  text-transform: uppercase;
+}
+
+/* Style for "Rectangle" */
+.costs-blue {
+  position: absolute;
+  top: 3700px;
+  left: -6px;
+  width: 1446px;
+  height: 1025px;
+  border: 1px solid #81d5ed;
+  background-color: #81d5ed;
+}
+
+/* Style for "Flexible &" */
+.costs-intro {
+  position: absolute;
+  top: 100px;
+  text-align: center;
+  left: 260px;
+  width: 920px;
+  height: 38px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+/* Style for "freemiu" */
+.event-freemium {
+  position: absolute;
+  top: 275px;
+  left: 142px;
+  width: 364px;
+  height: 588px;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+}
+
+/* Style for "advanced" */
+.event-advanced {
+  position: absolute;
+  top: 275px;
+  left: 538px;
+  width: 364px;
+  height: 588px;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+}
+
+/* Style for "premium" */
+.event-premium {
+  position: absolute;
+  top: 275px;
+  left: 934px;
+  width: 364px;
+  height: 588px;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+}
+
+/* Style for "•  Maximum" */
+.freemium-event-tekst {
+  position: absolute;
+  top: 700px;
+  left: 164px;
+  width: 320px;
+  height: 85px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+/* Style for "•  Maximum" */
+.advanced-event-tekst {
+  position: absolute;
+  top: 700px;
+  left: 560px;
+  width: 320px;
+  height: 85px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+/* Style for "•  Maximum" */
+.premium-event-tekst {
+  position: absolute;
+  top: 700px;
+  left: 956px;
+  width: 320px;
+  height: 85px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+/* Style for "cost button" */
+.costs-button {
+  position: absolute;
+  top: 925px;
+  left: 647px;
+  width: 146px;
+  height: 48px;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+/* Style for "SPONSOR PA" */
+.event-sponsor {
+  position: absolute;
+  top: 4748px;
+  text-align: center;
+  left: 142px;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.sponsor-line {
+  position: absolute;
+  top: 4856px;
+  left: 276px;
+  width: 918px;
+  height: 1px;
+  border: 2px solid #737373;
+}
+
+/* Style for "Lorem ipsu" */
+.sponsor-intro {
+  position: absolute;
+  text-align: center;
+  top: 4875px;
+  left: 142px;
+  width: 1156px;
+  height: 178px;
+  color: #000000;
+  font-family: Catamaran;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 44px;
+}
+
+/* Style for "sponsor picture 1" */
+.sponsor-1{
+  position: absolute;
+  top: 5079px;
+  left: 192px;
+  width: 299px;
+  height: 344px;
+}
+
+/* Style for "sponsor picture 2" */
+.sponsor-2 {
+  position: absolute;
+  top: 5079px;
+  left: 571px;
+  width: 299px;
+  height: 344px;
+}
+
+/* Style for "sponsor picture 3" */
+.sponsor-3 { 
+  position: absolute;
+  top: 5079px;
+  left: 950px;
+  width: 299px;
+  height: 344px;
+}
+
+/* Style for "SHARE ON S" */
+.share-on-social-event {
+  position: absolute;
+  top: 5536px;
+  left: 142px;
+  text-align: center;
+  width: 1156px;
+  height: 42px;
+  color: #81d5ed;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "fb" */
+.facebook-event {
+  position: absolute;
+  top: 5652px;
+  left: 464px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "insta" */
+.instagram-event {
+  position: absolute;
+  top: 5652px;
+  left: 582px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "twitter" */
+.twitter-event {
+  position: absolute;
+  top: 5652px;
+  left: 700px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "linkedin" */
+.linkedin-event {
+  position: absolute;
+  top: 5652px;
+  left: 818px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "whatsapp" */
+.whatsapp-event {
+  position: absolute;
+  top: 5652px;
+  left: 936px;
+  width: 40px;
+  height: 40px;
+}
+
+/* Style for "RELATED EV" */
+.related-events-header {
+  position: absolute;
+  top: 5847px;
+  left: 142px;
+  text-align: center;
+  width: 1155px;
+  height: 41px;
+  color: #81d5ed;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  text-transform: uppercase;
+}
+
+/* Style for "Line" */
+.related-line-event {
+  position: absolute;
+  top: 5955px;
+  left: 276px;
+  width: 918px;
+  height: 1px;
+  border: 2px solid #737373;
+}
+
+/* Style for "event 1" */
+.related-1-event{
+  position: absolute;
+  top: 6050px;
+  left: 154px;
+  width: 512px;
+  height: 273px;
+}
+
+/* Style for "event 2" */
+.related-2-event{
+  position: absolute;
+  top: 6050px;
+  left: 774px;
+  width: 512px;
+  height: 273px;
+}
+
+/* Style for "event button" */
+.related-event-1 {
+  position: absolute;
+  top: 6400px;
+  left: 337px;
+  width: 146px;
+  height: 46px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "event button" */
+.related-event-2 {
+  position: absolute;
+  top: 6400px;
+  left: 957px;
+  width: 146px;
+  height: 46px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 ::placeholder {
