@@ -6030,6 +6030,1222 @@ button {
   text-transform: uppercase;
 }
 
+/* Style for "members" */
+.header-member {
+  position: absolute;
+  top: 181px;
+  left: 603px;
+  width: 234px;
+  height: 86px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* Style for "248 result" */
+.resultaten-in-me {
+  position: absolute;
+  top: 490px;
+  left: 24px;
+  width: 251px;
+  height: 106px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+/* Text style for "in members" */
+.in-members {
+  font-size: 28px;
+  position: absolute;
+  top: 520px;
+  left: 24px;
+  width: 251px;
+  height: 106px;
+  color: #737373;
+  font-family: Catamaran;
+}
+
+/* Style for "Filters" */
+.filters-member {
+  position: absolute;
+  top: 490px;
+  left: 650px;
+  width: 141px;
+  height: 86px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 52px;
+  font-weight: 700;
+}
+
+/* Style for "member filte 1" */
+.member-filter-1 {
+  position: absolute;
+  top: 610px;
+  left: 402px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 1" */
+.member-cancel-1 {
+  position: absolute;
+  top: 623px;
+  left: 411px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 2" */
+.member-filter-2 {
+  position: absolute;
+  top: 610px;
+  left: 572px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 2" */
+.member-cancel-2 {
+  position: absolute;
+  top: 623px;
+  left: 581px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 3" */
+.member-filter-3{
+  position: absolute;
+  top: 610px;
+  left: 742px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 3" */
+.member-cancel-3 {
+  position: absolute;
+  top: 623px;
+  left: 751px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 4" */
+.member-filter-4 {
+  position: absolute;
+  top: 610px;
+  left: 912px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 4" */
+.member-cancel-4 {
+  position: absolute;
+  top: 623px;
+  left: 921px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 5" */
+.member-filter-5 {
+  position: absolute;
+  top: 673px;
+  left: 402px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 5" */
+.member-cancel-5 {
+  position: absolute;
+  top: 686px;
+  left: 411px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 6" */
+.member-filter-6 {
+  position: absolute;
+  top: 673px;
+  left: 572px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 6" */
+.member-cancel-6 {
+  position: absolute;
+  top: 686px;
+  left: 581px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 7" */
+.member-filter-7 {
+  position: absolute;
+  top: 673px;
+  left: 742px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 7" */
+.member-cancel-7 {
+  position: absolute;
+  top: 686px;
+  left: 751px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "member filter 8" */
+.member-filter-8 {
+  position: absolute;
+  top: 673px;
+  left: 912px;
+  width: 150px;
+  height: 40px;
+  border-radius: 4px;
+  border: 2px solid #81d5ed;
+  background-color: transparent;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "cancel 8" */
+.member-cancel-8 {
+  position: absolute;
+  top: 686px;
+  left: 921px;
+  width: 14px;
+  height: 14px;
+}
+
+/* Style for "search" */
+.member-search {
+  position: absolute;
+  top: 760px;
+  left: 433px;
+  width: 225px;
+  height: 32px;
+  border-radius: 4px;
+  border: 3px solid #81d5ed;
+}
+
+/* Style for "dropdown button" */
+.dropbutton-member {
+  position: absolute;
+  top: 760px;
+  left: 698px;
+  width: 225px;
+  height: 40px;
+  border-radius: 4px;
+  border: 3px solid #81d5ed;
+  background-color: transparent;
+  text-transform: uppercase;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "member role " */
+.member-role {
+  position: absolute;
+  top: 647px;
+  left: 28px;
+  width: 64px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox-1" */
+.member-checkbox-1 {
+  position: absolute;
+  top: 750px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "entrepreneur" */
+.filter-entrepreneur {
+  position: absolute;
+  top: 742px;
+  left: 49px;
+  width: 118px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 2" */
+.member-checkbox-2 {
+  position: absolute;
+  top: 780px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "mentor" */
+.filter-mentor {
+  position: absolute;
+  top: 772px;
+  left: 49px;
+  width: 64px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 3" */
+.member-checkbox-3 {
+  position: absolute;
+  top: 810px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "investor" */
+.filter-investor {
+  position: absolute;
+  top: 802px;
+  left: 49px;
+  width: 96px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "Name" */
+.member-name {
+  position: absolute;
+  top: 822px;
+  left: 28px;
+  width: 84px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "Rectangle" */
+.name-search{
+  position: absolute;
+  top: 927px;
+  left: 28px;
+  width: 225px;
+  height: 29px;
+  border: 1px solid #737373;
+}
+
+/* Style for "Company" */
+.member-company {
+  position: absolute;
+  top: 943px;
+  left: 28px;
+  width: 132px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox-5" */
+.member-checkbox-4 {
+  position: absolute;
+  top: 1046px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "company1" */
+.filter-company1 {
+  position: absolute;
+  top: 1038px;
+  left: 49px;
+  width: 118px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 5" */
+.member-checkbox-5 {
+  position: absolute;
+  top: 1076px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "company 2" */
+.filter-company2 {
+  position: absolute;
+  top: 1068px;
+  left: 49px;
+  width: 97px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 6" */
+.member-checkbox-6 {
+  position: absolute;
+  top: 1106px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "company 3" */
+.filter-company3 {
+  position: absolute;
+  top: 1098px;
+  left: 49px;
+  width: 97px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 7" */
+.member-checkbox-7{
+  position: absolute;
+  top: 1136px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "company 4" */
+.filter-company4 {
+  position: absolute;
+  top: 1128px;
+  left: 49px;
+  width: 98px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 8" */
+.member-checkbox-8{
+  position: absolute;
+  top: 1166px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "company 5" */
+.filter-company5{
+  position: absolute;
+  top: 1158px;
+  left: 49px;
+  width: 98px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 9" */
+.member-checkbox-9{
+  position: absolute;
+  top: 1196px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "company 6" */
+.filter-company6 {
+  position: absolute;
+  top: 1188px;
+  left: 49px;
+  width: 98px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "Island" */
+.member-island {
+  position: absolute;
+  top: 1218px;
+  left: 28px;
+  width: 84px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 10" */
+.member-checkbox-10{
+  position: absolute;
+  top: 1321px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "island 1" */
+.filter-island1 {
+  position: absolute;
+  top: 1313px;
+  left: 49px;
+  width: 98px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 11" */
+.member-checkbox-11 {
+  position: absolute;
+  top: 1351px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "island 2" */
+.filter-island2 {
+  position: absolute;
+  top: 1343px;
+  left: 49px;
+  width: 98px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 12" */
+.member-checkbox-12{
+  position: absolute;
+  top: 1381px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "island 3" */
+.filter-island3 {
+  position: absolute;
+  top: 1373px;
+  left: 49px;
+  width: 98px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 13" */
+.member-checkbox-13{
+  position: absolute;
+  top: 1411px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "island 4" */
+.filter-island4 {
+  position: absolute;
+  top: 1403px;
+  left: 49px;
+  width: 111px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 14" */
+.member-checkbox-14{
+  position: absolute;
+  top: 1441px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "island 5" */
+.filter-island5 {
+  position: absolute;
+  top: 1433px;
+  left: 49px;
+  width: 121px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 15" */
+.member-checkbox-15{
+  position: absolute;
+  top: 1471px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "island 6" */
+.filter-island6 {
+  position: absolute;
+  top: 1463px;
+  left: 49px;
+  width: 140px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "Sector" */
+.member-sector {
+  position: absolute;
+  top: 1493px;
+  left: 28px;
+  width: 91px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 16" */
+.member-checkbox-16{
+  position: absolute;
+  top: 1596px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "sector 1" */
+.filter-sector1 {
+  position: absolute;
+  top: 1588px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 17" */
+.member-checkbox-17{
+  position: absolute;
+  top: 1626px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "sector 2" */
+.filter-sector2 {
+  position: absolute;
+  top: 1618px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 18" */
+.member-checkbox-18{
+  position: absolute;
+  top: 1656px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "sector 3" */
+.filter-sector3 {
+  position: absolute;
+  top: 1648px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 19" */
+.member-checkbox-19{
+  position: absolute;
+  top: 1686px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "sector 4" */
+.filter-sector4 {
+  position: absolute;
+  top: 1678px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 20" */
+.member-checkbox-20{
+  position: absolute;
+  top: 1716px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "sector 5" */
+.filter-sector5 {
+  position: absolute;
+  top: 1708px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 21" */
+.member-checkbox-21{
+  position: absolute;
+  top: 1746px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "sector 6" */
+.filter-sector6 {
+  position: absolute;
+  top: 1738px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.footer-member {
+  position: absolute;
+  top: 2380px;
+  left: 0;
+  width: 1440px;
+  height: 1019px;
+  background-color: #1b2336;
+}
+
+/* Style for "Skills" */
+.member-skills {
+  position: absolute;
+  top: 1768px;
+  left: 31px;
+  width: 72px;
+  height: 53px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 22" */
+.member-checkbox-22{
+  position: absolute;
+  top: 1876px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "skill 1" */
+.filter-skill1 {
+  position: absolute;
+  top: 1868px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 23" */
+.member-checkbox-23{
+  position: absolute;
+  top: 1906px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "skill 2" */
+.filter-skill2 {
+  position: absolute;
+  top: 1898px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 24" */
+.member-checkbox-24{
+  position: absolute;
+  top: 1936px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "skill 3" */
+.filter-skill3 {
+  position: absolute;
+  top: 1928px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 25"  */
+.member-checkbox-25{
+  position: absolute;
+  top: 1966px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "skill 4" */
+.filter-skill4 {
+  position: absolute;
+  top: 1958px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 26"  */
+.member-checkbox-26{
+  position: absolute;
+  top: 1996px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "skill 5" */
+.filter-skill5 {
+  position: absolute;
+  top: 1988px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "checkbox 27"  */
+.member-checkbox-27{
+  position: absolute;
+  top: 2026px;
+  left: 28px;
+  width: 11px;
+  height: 12px;
+  border: 1px solid #81d5ed;
+}
+
+/* Style for "skill 6" */
+.filter-skill6 {
+  position: absolute;
+  top: 2018px;
+  left: 49px;
+  width: 190px;
+  height: 34px;
+  color: #737373;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* Style for "member-1" */
+.member-1{
+  position: absolute;
+  top: 850px;
+  left: 398px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-1 {
+  position: absolute;
+  text-align: center;
+  top: 927px;
+  left: 454px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "member 2" */
+.member-2{
+  position: absolute;
+  top: 850px;
+  left: 634px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-2 {
+  position: absolute;
+  top: 927px;
+  left: 690px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "member 3" */
+.member-3 {
+  position: absolute;
+  top: 850px;
+  left: 870px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-3 {
+  position: absolute;
+  top: 927px;
+  left: 935px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "member-4 */
+.member-4 {
+  position: absolute;
+  top: 1080px;
+  left: 398px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-4 {
+  position: absolute;
+  top: 1157px;
+  left: 454px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "member 5" */
+.member-5 {
+  position: absolute;
+  top: 1080px;
+  left: 634px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-5 {
+  position: absolute;
+  top: 1157px;
+  left: 690px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "member 6" */
+.member-6{
+  position: absolute;
+  top: 1080px;
+  left: 870px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-6 {
+  position: absolute;
+  top: 1157px;
+  left: 935px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "member 7" */
+.member-7 {
+  position: absolute;
+  top: 1310px;
+  left: 398px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-7 {
+  position: absolute;
+  top: 1390px;
+  left: 450px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Style for "member 8" */
+.member-8 {
+  position: absolute;
+  top: 1310px;
+  left: 634px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-8 {
+  position: absolute;
+  top: 1390px;
+  left: 686px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* Style for "member 9 */
+.member-9 {
+  position: absolute;
+  top: 1310px;
+  left: 870px;
+  width: 192px;
+  height: 194px;
+}
+
+/* Style for "NAME" */
+.name-9{
+  position: absolute;
+  top: 1390px;
+  left: 931px;
+  width: 80px;
+  height: 49px;
+  color: #81d5ed;
+  font-family: Catamaran;
+  font-size: 29px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
 ::placeholder {
   position: absolute;
   top: 6141px;
