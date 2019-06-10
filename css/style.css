@@ -1,15 +1,9 @@
 body {
 	overflow-x: hidden;
+  font-family: 'Catamaran'
 }
 
-* {
-    font-family: myCatamaran;
-}
-
-@font-face {
-   font-family: myCatamaran;
-   src: url(../fonts/Catamaran-Regular.ttf);
-}
+@import  url(https://fonts.googleapis.com/css?family=Catamaran&display=swap);
 
 
 /* Style for "Rectangle" */
