@@ -1,6 +1,13 @@
 body {
 	overflow-x: hidden;
+  font-family: myCatamaran;
 }
+
+@font-face {
+   font-family: myCatamaran;
+   src: url(satamaran-Regular.ttf);
+}
+
 
 /* Style for "Rectangle" */
 .header {
