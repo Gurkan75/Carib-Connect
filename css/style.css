@@ -11,6 +11,14 @@ body {
    src: url(../fonts/Catamaran-Regular.ttf);
 }
 
+@font-face {
+  font-family: headers;
+  src: url(../fonts/Catamaran-Bold.ttf);
+}
+
+h1, h2, h3, h4, h5, h6, {
+  font-family: headers;
+}
 
 /* Style for "Rectangle" */
 .header {
