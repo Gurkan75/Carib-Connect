@@ -1,9 +1,10 @@
 body {
 	overflow-x: hidden;
-  font-family: myCatamaran;
-
 }
 
+* {
+    font-family: myCatamaran;
+}
 
 @font-face {
    font-family: myCatamaran;
